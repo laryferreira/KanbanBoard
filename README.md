@@ -1,31 +1,36 @@
 # Kanban Board System
+##### Developed by: Laryssa Ferreira, Lurian Correia, Marcus Emanuel and Analyce Reys (Computer Engineering and Computer Science Students) 
+###### Last Update: December 2023
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-  O sistema Kanban é um método visual de gestão de trabalho que busca otimizar o fluxo de trabalho, limitando a quantidade de trabalho em andamento em cada etapa. Esse sistema usa um quadro com colunas que representam as etapas do processo, como “a fazer”(to do), “fazendo”(doing) e “feito”(done). Cada tarefa é representada por um cartão que se move pelo quadro conforme o seu status. 
-   O sistema Kanban segue quatro regras principais: começar com o que você tem agora, limitar o trabalho em andamento, gerenciar o fluxo e implementar políticas explícitas. O sistema Kanban também tem seis práticas essenciais: visualizar o fluxo de trabalho, limitar o trabalho em andamento, gerenciar o fluxo, fazer políticas explícitas, implementar feedback loops e melhorar colaborativamente. O sistema Kanban é um método ágil que busca evitar o desperdício, aumentar a produtividade e a qualidade, e promover a melhoria contínua.
 
-## Intregrantes
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpkd29ienY0dDNjNXBjczFpM24zYmRqOGR6a2oxejgyaTE3eWdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yt0eXQ8IpxbPNRtPj/giphy.gif)
 
- 211026548 | [Analyce Rayssa Silva Nunes](https://github.com/AnalyceRay)         
- 222005386 | [Laryssa de Oliveira Ferreira](https://github.com/laryferreira)        
- 222005395 | [Lurian Correia Lima](https://github.com/luricl)                 
- 222025960 | [Marcus Emanuel C. T. de Freitas](https://github.com/METenedini)     
 
+The Kanban system is a ***visual work management method that seeks to optimize workflow by limiting the amount of work in progress at each stage.*** 
+
+This system uses a board with columns representing the stages of the process, such as "to do", "doing" and "done". Each task is represented by a card that moves around the board according to its status. 
+   
+The Kanban board follows ***four main rules***: start with what you have now, limit work in progress, manage flow and implement explicit policies. 
+
+It also has ***six essential practices***: visualize the workflow, limit work in progress, manage the flow, make explicit policies, implement feedback loops and improve collaboratively. It is an agile method that seeks to avoid waste, increase productivity and quality, and promote continuous improvement.
 
 ## Sumário
 
-- [Objetivo](#objetivo)
-- [Descrição](#descrição)
-- [Começando](#começando)
-- [Utilização](#utilização)
-- [Estruturas de Dados](#estruturas-de-dados)
-- [Contribuições](#contribuições)
+- [Objective](#objective)
+- [Description](#description)
+- [Beggining](#begginning)
+- [Use](#use)
+- [Data Structure](#data-structure)
+- [Contribution](#contribution)
 
-## Objetivo
+## Objective
 
  Este é um sistema que ajuda você a gerenciar seus projetos usando o método Kanban. Você pode criar sua conta, fazer login e usar vários serviços relacionados ao Kanban. Você pode criar, ver, mover e apagar quadros e cartões, seguindo as regras e as políticas do método. O sistema também controla o limite de trabalho em progresso e fornece dados sobre o tempo, a qualidade e a satisfação do trabalho. Este é um trabalho acadêmico que descreve as funcionalidades, os requisitos e o projeto do sistema, bem como os testes e os resultados obtidos.
 O objetivo deste projeto é......
 
-## Descrição
+## Description
 
 Neste sistema o usuário pode realizar as seguintes operações são suportadas:
 
