@@ -1,4 +1,4 @@
-# Sistema Kanban
+# Kanban Board System
 
   O sistema Kanban é um método visual de gestão de trabalho que busca otimizar o fluxo de trabalho, limitando a quantidade de trabalho em andamento em cada etapa. Esse sistema usa um quadro com colunas que representam as etapas do processo, como “a fazer”(to do), “fazendo”(doing) e “feito”(done). Cada tarefa é representada por um cartão que se move pelo quadro conforme o seu status. 
    O sistema Kanban segue quatro regras principais: começar com o que você tem agora, limitar o trabalho em andamento, gerenciar o fluxo e implementar políticas explícitas. O sistema Kanban também tem seis práticas essenciais: visualizar o fluxo de trabalho, limitar o trabalho em andamento, gerenciar o fluxo, fazer políticas explícitas, implementar feedback loops e melhorar colaborativamente. O sistema Kanban é um método ágil que busca evitar o desperdício, aumentar a produtividade e a qualidade, e promover a melhoria contínua.
